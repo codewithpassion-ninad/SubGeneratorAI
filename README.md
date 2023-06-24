@@ -11,4 +11,4 @@ The SubGeneatorAI GitHub repository provides a comprehensive package that includ
 
 Join the SubGeneatorAI community on GitHub and experience the convenience and power of this subtitle generation tool. Contribute to the development, share insights, and collaborate with fellow developers to continuously improve the subtitle generation process. Empower your projects with SubGeneatorAI, enabling seamless integration of accurate subtitles and enhancing the accessibility of multimedia content.
 
-Unleash the potential of SubGeneatorAI on GitHub and revolutionize the way subtitles are generated in your applications and projects.
+Unleash the potential of SubGeneatorAI on GitHub and revolutionize the way subtitles are generated in your applications and projects. The collaborators to this project are AadhithSridharan and codewithpassion-ninad.
